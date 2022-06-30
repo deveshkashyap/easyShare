@@ -3,7 +3,7 @@ const app = express();
 const path = require('path');
 const cors = require('cors');
 
-const PORT = process.env.PORT || 3000;
+const PORT = (3000);
 app.use(express.static('public'));
 app.use(express.json());
 
@@ -26,6 +26,7 @@ app.use('/api/files', require('./routes/files'));
 app.use('/files', require('./routes/show'));
 app.use('/files/download', require('./routes/download'));
 
+// app.listen(process.env.PORT || 3000);
 
 app.listen(PORT, () =>{
     console.log(`listing on port ${PORT}`);
