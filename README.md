@@ -60,9 +60,9 @@ Start the server
 
 ![Interface](https://user-images.githubusercontent.com/62659072/177274854-18f69c7a-f1c8-405d-96c4-97a81ceb9470.png)
 
-2.Draging the file to upload
+2.Dragging the file to upload
 
-## Features![Drag and drp](https://user-images.githubusercontent.com/62659072/177274980-88447996-3218-4cf4-b4c9-679198fd9f33.png)
+![Drag and drop](https://user-images.githubusercontent.com/62659072/177274980-88447996-3218-4cf4-b4c9-679198fd9f33.png)
 
 3. Generating the download link.
 
@@ -76,7 +76,7 @@ Start the server
 
 ![Download in mail](https://user-images.githubusercontent.com/62659072/177275295-972f3e01-c637-4db9-b80e-dcaa5bbda5c5.png)
 
-
+## Features!
 - Drag and Drop Option
 - Directly share download link.
 - Send using mail.
